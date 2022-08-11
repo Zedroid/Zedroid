@@ -1,5 +1,6 @@
 # Zedroid-
 Xedroid
+https://github.com/wisehackermonkey/ultimate-tts-reader
 https://github.com/alystair/my-productivity-stack/blob/master/Launch%20Calculator.ahk
 
 https://www.sevenforums.com/general-discussion/35682-disable-shift-click-taskbar.html#
