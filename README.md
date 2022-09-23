@@ -33,6 +33,10 @@ How can I move folders from an old computer to a new computer so that I retain t
 Try this:
 
 Create a desktop shortcut for cmd.exe.
+
+https://github.com/raszpl/hackahackernews
+
+https://github.com/TheAMM/mpv_thumbnail_script
 Double-click this shortcut. You will get a black frame.
 Type this command and press Enter:
 robocopy  "H:\FolderName"  "C:\Users\David\FolderName"  /e  /w:1  /r:1
