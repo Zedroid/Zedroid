@@ -26,3 +26,15 @@ https://www.sevenforums.com/general-discussion/35682-disable-shift-click-taskbar
     Send %mode%{LButton Up}     ; Click up.
 
     return
+
+Frederik LongReplied on January 30, 2021
+How can I move folders from an old computer to a new computer so that I retain the same "Date Modified"?
+
+Try this:
+
+Create a desktop shortcut for cmd.exe.
+Double-click this shortcut. You will get a black frame.
+Type this command and press Enter:
+robocopy  "H:\FolderName"  "C:\Users\David\FolderName"  /e  /w:1  /r:1
+robocopy <"source"> <"destination">  /e  /w:1  /r:1
+https://answers.microsoft.com/en-us/windows/forum/all/retaining-the-original-date-modified-of-folders/0c0982f9-03a5-47f6-ae32-f2691d647889
