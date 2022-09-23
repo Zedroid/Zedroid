@@ -36,7 +36,7 @@ Create a desktop shortcut for cmd.exe.
 
 https://github.com/raszpl/hackahackernews
 
-https://github.com/TheAMM/mpv_thumbnail_script
+
 Double-click this shortcut. You will get a black frame.
 Type this command and press Enter:
 robocopy  "H:\FolderName"  "C:\Users\David\FolderName"  /e  /w:1  /r:1
@@ -44,3 +44,6 @@ robocopy  "H:\FolderName"  "C:\Users\David\FolderName"  /e  /w:1  /r:1
 
 robocopy <"source"> <"destination">  /e  /w:1  /r:1
 https://answers.microsoft.com/en-us/windows/forum/all/retaining-the-original-date-modified-of-folders/0c0982f9-03a5-47f6-ae32-f2691d647889
+
+https://github.com/marzzzello/mpv_thumbnail_script/issues/22#issuecomment-1179770239
+
