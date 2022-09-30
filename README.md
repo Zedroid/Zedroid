@@ -10,7 +10,6 @@ Wizmouse
 
 thanks! That was it! Disablbing the "run as admin" of the autohotkey.exe, and adding this to the top of my script solved it: 
 
-; run script as admin (reload if not as admin) if not A_IsAdmin  {    Run *RunAs "%A_ScriptFullPath%"     ExitApp }
 FileCreateShortcut, %A_ScriptFullPath%, %A_Startup%\shortcutname.lnk
 
 
