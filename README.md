@@ -9,6 +9,7 @@ Mpv https://github.com/stax76/mpv.net/issues/488
 Wizmouse
 
 autostart ahk
+https://github.com/AutoHotkey/Ahk2Exe add shortcut to startup folder
 FileCreateShortcut, %A_ScriptFullPath%, %A_Startup%\shortcutname.lnk
 
 
