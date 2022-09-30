@@ -8,8 +8,7 @@ Pytranscriber
 Mpv https://github.com/stax76/mpv.net/issues/488
 Wizmouse
 
-thanks! That was it! Disablbing the "run as admin" of the autohotkey.exe, and adding this to the top of my script solved it: 
-
+autostart ahk
 FileCreateShortcut, %A_ScriptFullPath%, %A_Startup%\shortcutname.lnk
 
 
