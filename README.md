@@ -1,5 +1,9 @@
 # Zedroid-
 Xedroid
+
+https://github.com/Daichi09/ClipboardTTS
+Click "'" hotkey after copy
+
 https://github.com/wisehackermonkey/ultimate-tts-reader
 https://github.com/alystair/my-productivity-stack/blob/master/Launch%20Calculator.ahk
 https://github.com/sayyid5416/Links-Extractor
