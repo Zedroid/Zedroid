@@ -1,5 +1,6 @@
 # Zedroid-
 Xedroid
+![](https://komarev.com/ghpvc/?username=Zedroid)
 
 https://github.com/Daichi09/ClipboardTTS
 
