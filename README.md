@@ -1,5 +1,5 @@
 # Zedroid-
-Xedroid
+Xedroid 5 views are mine added on nov 26 2023 5:26pm 20 followers
 ![](https://komarev.com/ghpvc/?username=Zedroid)
 
 https://github.com/Daichi09/ClipboardTTS
